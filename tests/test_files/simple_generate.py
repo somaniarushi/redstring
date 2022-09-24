@@ -1,0 +1,1 @@
+add_1_to_input(3)
